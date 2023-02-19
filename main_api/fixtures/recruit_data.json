@@ -1,0 +1,211 @@
+[
+  {
+    "model": "main_api.Recruit",
+    "pk": 1,
+    "fields": {
+      "first_name": "Oliver",
+      "last_name": "Smith",
+      "contact": "555-123-4567",
+      "age": 18,
+      "hometown": "Houston, TX",
+      "position": "Pitcher",
+      "height": 72,
+      "weight": 185,
+      "current_team": "West High School",
+      "notes": "Top-rated prospect",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 2,
+    "fields": {
+      "first_name": "Eric",
+      "last_name": "Johnson",
+      "contact": "555-234-5678",
+      "age": 17,
+      "hometown": "Phoenix, AZ",
+      "position": "Shortstop",
+      "height": 65,
+      "weight": 135,
+      "current_team": "East High School",
+      "notes": "Excellent glove",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 3,
+    "fields": {
+      "first_name": "William",
+      "last_name": "Brown",
+      "contact": "555-345-6789",
+      "age": 18,
+      "hometown": "Minneapolis, MN",
+      "position": "Outfielder",
+      "height": 70,
+      "weight": 160,
+      "current_team": "North High School",
+      "notes": "Power hitter",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 4,
+    "fields": {
+      "first_name": "Sam",
+      "last_name": "Garcia",
+      "contact": "555-456-7890",
+      "age": 17,
+      "hometown": "Portland, OR",
+      "position": "Catcher",
+      "height": 67,
+      "weight": 140,
+      "current_team": "South High School",
+      "notes": "Great arm",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 5,
+    "fields": {
+      "first_name": "Michael",
+      "last_name": "Rodriguez",
+      "contact": "555-567-8901",
+      "age": 18,
+      "hometown": "Nashville, TN",
+      "position": "Third baseman",
+      "height": 71,
+      "weight": 175,
+      "current_team": "West High School",
+      "notes": "Versatile player",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 6,
+    "fields": {
+      "first_name": "Issac",
+      "last_name": "Martinez",
+      "contact": "555-678-9012",
+      "age": 17,
+      "hometown": "Denver, CO",
+      "position": "Second baseman",
+      "height": 66,
+      "weight": 130,
+      "current_team": "East High School",
+      "notes": "Smart player",
+      "team_id": 11,
+      "created_at": "2023-02-18T00:00:00.000Z",
+      "updated_at": "2023-02-18T00:00:00.000Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 7,
+    "fields": {
+      "first_name": "John",
+      "last_name": "Reynolds",
+      "contact": "555-123-4567",
+      "age": 18,
+      "hometown": "Cedarville, NM",
+      "position": "Pitcher",
+      "height": 72,
+      "weight": 180,
+      "current_team": "Cedar High School",
+      "notes": "",
+      "team_id": 11,
+      "created_at": "2023-02-19T17:24:13.298Z",
+      "updated_at": "2023-02-19T17:24:13.298Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 8,
+    "fields": {
+      "first_name": "Adam",
+      "last_name": "Jones",
+      "contact": "555-234-5678",
+      "age": 17,
+      "hometown": "Redwood, CA",
+      "position": "Catcher",
+      "height": 68,
+      "weight": 170,
+      "current_team": "Redwood High School",
+      "notes": "",
+      "team_id": 11,
+      "created_at": "2023-02-19T17:24:13.298Z",
+      "updated_at": "2023-02-19T17:24:13.298Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 9,
+    "fields": {
+      "first_name": "Ethan",
+      "last_name": "Chen",
+      "contact": "555-345-6789",
+      "age": 18,
+      "hometown": "Blue Springs, MS",
+      "position": "Shortstop",
+      "height": 70,
+      "weight": 175,
+      "current_team": "Blue Springs High School",
+      "notes": "",
+      "team_id": 11,
+      "created_at": "2023-02-19T17:24:13.298Z",
+      "updated_at": "2023-02-19T17:24:13.298Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 10,
+    "fields": {
+      "first_name": "Brian",
+      "last_name": "Lee",
+      "contact": "555-456-7890",
+      "age": 17,
+      "hometown": "Millfield, OH",
+      "position": "Outfielder",
+      "height": 74,
+      "weight": 185,
+      "current_team": "Millfield High School",
+      "notes": "",
+      "team_id": 11,
+      "created_at": "2023-02-19T17:24:13.298Z",
+      "updated_at": "2023-02-19T17:24:13.298Z"
+    }
+  },
+  {
+    "model": "main_api.Recruit",
+    "pk": 11,
+    "fields": {
+      "first_name": "Kyle",
+      "last_name": "Nguyen",
+      "contact": "555-567-8901",
+      "age": 18,
+      "hometown": "Gold Creek, MT",
+      "position": "Third baseman",
+      "height": 74,
+      "weight": 185,
+      "current_team": "Gold Creek High School",
+      "notes": "",
+      "team_id": 11,
+      "created_at": "2023-02-19T17:24:13.298Z",
+      "updated_at": "2023-02-19T17:24:13.298Z"
+    }
+  }
+]
