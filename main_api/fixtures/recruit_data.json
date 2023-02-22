@@ -13,7 +13,7 @@
       "weight": 185,
       "current_team": "West High School",
       "notes": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -32,7 +32,7 @@
       "weight": 135,
       "current_team": "East High School",
       "notes": "Excellent glove",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -51,7 +51,7 @@
       "weight": 160,
       "current_team": "North High School",
       "notes": "Power hitter",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -70,7 +70,7 @@
       "weight": 140,
       "current_team": "South High School",
       "notes": "Great arm",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -89,7 +89,7 @@
       "weight": 175,
       "current_team": "West High School",
       "notes": "Versatile player",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -108,7 +108,7 @@
       "weight": 130,
       "current_team": "East High School",
       "notes": "Smart player",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -127,7 +127,7 @@
       "weight": 180,
       "current_team": "Cedar High School",
       "notes": "",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-19T17:24:13.298Z",
       "updated_at": "2023-02-19T17:24:13.298Z"
     }
@@ -146,7 +146,7 @@
       "weight": 170,
       "current_team": "Redwood High School",
       "notes": "",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-19T17:24:13.298Z",
       "updated_at": "2023-02-19T17:24:13.298Z"
     }
@@ -165,7 +165,7 @@
       "weight": 175,
       "current_team": "Blue Springs High School",
       "notes": "",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-19T17:24:13.298Z",
       "updated_at": "2023-02-19T17:24:13.298Z"
     }
@@ -184,14 +184,14 @@
       "weight": 185,
       "current_team": "Millfield High School",
       "notes": "",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-19T17:24:13.298Z",
       "updated_at": "2023-02-19T17:24:13.298Z"
     }
   },
   {
     "model": "main_api.Recruit",
-    "pk": 11,
+    "pk": 12,
     "fields": {
       "first_name": "Kyle",
       "last_name": "Nguyen",
@@ -203,7 +203,7 @@
       "weight": 185,
       "current_team": "Gold Creek High School",
       "notes": "",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-19T17:24:13.298Z",
       "updated_at": "2023-02-19T17:24:13.298Z"
     }

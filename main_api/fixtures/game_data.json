@@ -8,7 +8,7 @@
       "time": "2:00 PM",
       "home_team": "Wildcats",
       "away_team": "Spartans",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -22,7 +22,7 @@
       "time": "7:00 PM",
       "home_team": "Mustangs",
       "away_team": "Wildcats",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -36,7 +36,7 @@
       "time": "6:00 PM",
       "home_team": "Wildcats",
       "away_team": "Bulldogs",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -46,11 +46,11 @@
     "pk": 4,
     "fields": {
       "location": "Redwood Field",
-      "date": "2023-03-11",
+      "date": "2023-03-12",
       "time": "3:30 PM",
       "home_team": "Wildcats",
       "away_team": "Tigers",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -64,7 +64,7 @@
       "time": "8:00 PM",
       "home_team": "Panthers",
       "away_team": "Wildcats",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -78,7 +78,7 @@
       "time": "7:30 PM",
       "home_team": "Wildcats",
       "away_team": "Eagles",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -92,7 +92,7 @@
       "time": "6:00 PM",
       "home_team": "Lions",
       "away_team": "Wildcats",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -106,7 +106,7 @@
       "time": "5:00 PM",
       "home_team": "Wildcats",
       "away_team": "Bears",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -120,7 +120,7 @@
       "time": "7:00 PM",
       "home_team": "Ravens",
       "away_team": "Wildcats",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
@@ -134,7 +134,7 @@
       "time": "2:00 PM",
       "home_team": "Dragons",
       "away_team": "Wildcats",
-      "team_id": 11,
+      "team_id": 12,
       "created_at": "2023-02-18T00:00:00.000Z",
       "updated_at": "2023-02-18T00:00:00.000Z"
     }
