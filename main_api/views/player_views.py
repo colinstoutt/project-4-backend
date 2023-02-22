@@ -7,7 +7,7 @@ from ..models.player import Player
 from ..serializers import PlayerSerializer
 
 # Create your views here.
-class Player(APIView):
+class PlayerClass(APIView):
     def get(self, request):
         """Index Request"""
         print(request.session)

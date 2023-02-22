@@ -7,7 +7,7 @@ from ..models.recruit import Recruit
 from ..serializers import RecruitSerializer
 
 # Create your views here.
-class Recruit(APIView):
+class RecruitClass(APIView):
     def get(self, request):
         """Index Request"""
         print(request.session)
