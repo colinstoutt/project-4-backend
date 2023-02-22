@@ -7,7 +7,7 @@ from ..models.game import Game
 from ..serializers import GameSerializer
 
 # Create your views here.
-class Game(APIView):
+class GameClass(APIView):
     def get(self, request):
         """Index Request"""
         print(request.session)
